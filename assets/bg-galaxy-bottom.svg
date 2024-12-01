@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1918 1" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g>
+        <clipPath id="_clip1">
+            <rect x="0" y="0" width="1918" height="1059"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <rect x="-0.081" y="-0.027" width="1918.08" height="1059.03" style="fill:url(#_Linear2);"/>
+            <use xlink:href="#_Image3" x="70.601" y="0" width="1779px" height="1px"/>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(167.189,2819.69,-2819.69,167.189,889.081,-507.683)"><stop offset="0" style="stop-color:black;stop-opacity:0.2"/><stop offset="0.24" style="stop-color:rgb(10,29,41);stop-opacity:1"/><stop offset="0.7" style="stop-color:rgb(10,29,41);stop-opacity:0.3"/><stop offset="1" style="stop-color:black;stop-opacity:0.1"/></linearGradient>
+        <image id="_Image3" width="1779px" height="1px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABvMAAAABCAYAAADjGVJuAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAoElEQVRYhe3TMUqCcQCH4UcEEZKcXVpcLMIjKHmBaHN38jbODZ2iCyQODR4gEXcbooagKWj48AbCv+/j95zgXd5W/3YywgX2+BYR0MMUP1gXbolosrnqt2d8FG6JenvANV7xUrgl4mSGe/ziEbuyORERZ9fGAjf4xApfRYsiKl0s0cETjmVzoubucIUN3gq3RDTVAGO8Y1u4JeI/GeIShz+/JxWL/boRYQAAAABJRU5ErkJggg=="/>
+    </defs>
+</svg>
